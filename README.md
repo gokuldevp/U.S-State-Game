@@ -1,5 +1,5 @@
 # U.S-State-Game. 
-## This project is based on the 25th Days project from 100 days of coding course in udemy. Here we use pandas libreary to read and work with the csv file. The steps used in creating the mail merge is as follows.
+
 ### Step 1: initializing path and opening the csv file.
 ### Step 2: Creating Screen and setting up screen.
 ### Step 3: Setting up Screen image by adding a new image.
